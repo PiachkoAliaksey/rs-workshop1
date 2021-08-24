@@ -1,2 +1,6 @@
 Some texte for header
-Changes from <master> - new changes
+Changes from <master>
+Change from <first>
+
+Text frome master:new changes
+
